@@ -630,7 +630,7 @@ function isUserEmailCorrect($email) {
             <div class="foot-middle">
                 <ul>
                     <h3>Docente</h3>
-                    <li>Ms. Remelyn Bonillo</li>
+                    <li>FAUSTO LORENZO</li>
                 </ul>            
             </div>
             <div class="foot-right">
